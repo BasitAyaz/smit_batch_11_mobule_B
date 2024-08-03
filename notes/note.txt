@@ -1,3 +1,0 @@
-1: Heading is missing. (done)
-2: Font Size is Small in file abc and image size should be big in logo. (done)
-3: Footer color is too light make it dark or relevant to theme. (can't changes it is same as Figma)
